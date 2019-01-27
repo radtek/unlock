@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Haosu\\StudioProjects\\locking_my\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Haosu\\StudioProjects\\locking_my\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "62,69",
+                        "startColumns": "4,4",
+                        "startOffsets": "3510,3801",
+                        "endLines": "68,71",
+                        "endColumns": "12,12",
+                        "endOffsets": "3796,3956"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Haosu\\StudioProjects\\locking_my\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "23,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "1007,1065",
+                        "endColumns": "57,55",
+                        "endOffsets": "1060,1116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Haosu\\StudioProjects\\locking_my\\app\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "14",
+                        "endColumns": "24",
+                        "endOffsets": "659"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "444",
+                        "endLines": "22",
+                        "endColumns": "24",
+                        "endOffsets": "1002"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Haosu\\StudioProjects\\locking_my\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "9,6,10,11,5,8,7,2",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "369,228,417,466,171,324,277,57",
+                        "endColumns": "46,47,47,48,55,43,45,50",
+                        "endOffsets": "411,271,460,510,222,363,318,103"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,150,198,247,303,347,393",
+                        "endColumns": "46,47,47,48,55,43,45,50",
+                        "endOffsets": "97,145,193,242,298,342,388,439"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Haosu\\StudioProjects\\locking_my\\app\\src\\main\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "3,34,37,38,39,40,36,35,33,41,42,6,7,5,9,10,8,27,13,25,12,29,30,15,19,22,23,20,21,14,16,18,24,17,28,31,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,1874,2071,2152,2234,2297,1994,1923,1818,2369,2433,173,230,110,338,393,277,1486,532,1348,462,1614,1672,652,915,1124,1188,982,1047,589,716,848,1264,778,1560,1739,1415",
+                        "endColumns": "43,47,79,80,61,70,75,69,54,62,68,55,45,61,53,61,59,72,55,65,68,56,65,62,65,62,74,63,75,61,60,65,82,68,52,71,69",
+                        "endOffsets": "98,1917,2146,2228,2291,2363,2065,1988,1868,2427,2497,224,271,167,387,450,332,1554,583,1409,526,1666,1733,710,976,1182,1258,1041,1118,646,772,909,1342,842,1608,1806,1480"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1121,1165,1213,1293,1374,1436,1507,1583,1653,1708,1771,1840,1896,1942,2004,2058,2120,2180,2253,2309,2375,2444,2501,2567,2630,2696,2759,2834,2898,2974,3036,3097,3163,3246,3315,3368,3440",
+                        "endColumns": "43,47,79,80,61,70,75,69,54,62,68,55,45,61,53,61,59,72,55,65,68,56,65,62,65,62,74,63,75,61,60,65,82,68,52,71,69",
+                        "endOffsets": "1160,1208,1288,1369,1431,1502,1578,1648,1703,1766,1835,1891,1937,1999,2053,2115,2175,2248,2304,2370,2439,2496,2562,2625,2691,2754,2829,2893,2969,3031,3092,3158,3241,3310,3363,3435,3505"
+                    }
+                }
+            ]
+        }
+    ]
+}
